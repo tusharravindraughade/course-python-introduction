@@ -37,3 +37,7 @@ print(type(z))
 This will give you a new variable `z` which is equal to 6.2
 
 Calling the function `float(number)` will turn an integer into a number that can contain decimal places.
+
+z = 6.2
+
+print(type(z))
